@@ -81,7 +81,7 @@ RelativeMoniker	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^      "RelativeMonik
 RelativeToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "RelativeToolTip": "Report3.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.4
 RelativeToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "RelativeToolTip": "Report4.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.3
 RelativeToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "RelativeToolTip": "Report5.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.2
-RelativeToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "RelativeToolTip": "Report6.rdl [Design]*",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.1
+RelativeToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "RelativeToolTip": "Report6.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.1
 SelectedChildIndex	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^          "SelectedChildIndex": 1,$/;"	n	object:DocumentGroupContainers.0.DocumentGroups.0
 Title	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "Title": "Report3.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.4
 Title	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "Title": "Report4.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.3
@@ -90,7 +90,7 @@ Title	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "Title": "Report
 ToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "ToolTip": "F:\\\\Documents\\\\Projects\\\\IDH_Raporty\\\\Report3.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.4
 ToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "ToolTip": "F:\\\\Documents\\\\Projects\\\\IDH_Raporty\\\\Report4.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.3
 ToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "ToolTip": "F:\\\\Documents\\\\Projects\\\\IDH_Raporty\\\\Report5.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.2
-ToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "ToolTip": "F:\\\\Documents\\\\Projects\\\\IDH_Raporty\\\\Report6.rdl [Design]*",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.1
+ToolTip	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "ToolTip": "F:\\\\Documents\\\\Projects\\\\IDH_Raporty\\\\Report6.rdl [Design]",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.1
 Version	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^  "Version": 1,$/;"	n
 VerticalTabListWidth	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^      "VerticalTabListWidth": 256,$/;"	n	object:DocumentGroupContainers.0
 WhenOpened	./.vs/IDH_Raporty/v17/DocumentLayout.json	/^              "WhenOpened": "2024-06-09T22:09:22.178Z",$/;"	s	object:DocumentGroupContainers.0.DocumentGroups.0.Children.4
